@@ -100,7 +100,7 @@ Key features:
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://your-deployment-url-here)
+[View Live Demo](https://masterji-co-coding-challenges-uhju.vercel.app/)
 
 ## 📚 Repository
 
