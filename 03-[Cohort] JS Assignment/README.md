@@ -92,10 +92,6 @@ The application has several key components:
 
 [View Live Demo](https://masterji-co-coding-challenges-hui8.vercel.app/)
 
-## 📚 Repository
-
-[GitHub Repository](https://github.com/gokuthecoder/random-quote-generator)
-
 ## ⚠️ API Note
 
 This project uses the free quote API from freeapi.app. If the application fails to display quotes, it may be due to API rate limits or changes to the API structure.
