@@ -59,8 +59,8 @@ Your submissions are evaluated by peers based on:
 | Challenge | Points | Status | Completion Date | Repository | Deployment |
 |-----------|--------|--------|-----------------|------------|------------|
 | *01_challange_daily_mood_tracker* | *XX* | ![Completed](https://img.shields.io/badge/Completed-green) | *20/03/2025* | [GitHub Link](https://github.com/gokuthecoders/Masterji.co-Coding-Challenges/tree/main/01-%5BCohort%5D%20JS%20Assignment) | [Vercel Link](https://masterji-co-coding-challenges-hui8.vercel.app/) |
-| *02_youtube_styling_video* | *XX* | ![Completed](https://img.shields.io/badge/In%20Progress-yellow) | *20/03/2025* | [GitHub Link](https://github.com/gokuthecoders/Masterji.co-Coding-Challenges/tree/main/02-%5BCohort%5D%20JS%20Assignment) | [Vercel Link](https://masterji-co-coding-challenges-uhju.vercel.app/) |
-| *03_random_quote_generator* | *XX* | ![Completed](https://img.shields.io/badge/In%20Progress-yellow) | *20/03/2025* | [GitHub Link](https://github.com/gokuthecoders/Masterji.co-Coding-Challenges/tree/main/03-%5BCohort%5D%20JS%20Assignment) | [Vercel Link](https://masterji-co-coding-challenges-hui8.vercel.app/) |
+| *02_youtube_styling_video* | *XX* | ![Completed](https://img.shields.io/badge/Completed-green) | *20/03/2025* | [GitHub Link](https://github.com/gokuthecoders/Masterji.co-Coding-Challenges/tree/main/02-%5BCohort%5D%20JS%20Assignment) | [Vercel Link](https://masterji-co-coding-challenges-uhju.vercel.app/) |
+| *03_random_quote_generator* | *XX* | ![Completed](https://img.shields.io/badge/Completed-green) | *20/03/2025* | [GitHub Link](https://github.com/gokuthecoders/Masterji.co-Coding-Challenges/tree/main/03-%5BCohort%5D%20JS%20Assignment) | [Vercel Link](https://masterji-co-coding-challenges-hui8.vercel.app/) |
 
 ## Challenge Achievements 🏆
 
