@@ -90,7 +90,7 @@ The application has several key components:
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://your-deployment-url-here)
+[View Live Demo](https://masterji-co-coding-challenges-hui8.vercel.app/)
 
 ## 📚 Repository
 
