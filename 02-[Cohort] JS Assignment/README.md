@@ -102,10 +102,6 @@ Key features:
 
 [View Live Demo](https://masterji-co-coding-challenges-uhju.vercel.app/)
 
-## 📚 Repository
-
-[GitHub Repository](https://github.com/your-username/videotube)
-
 ## ⚠️ API Note
 
 This project uses the free YouTube videos API from freeapi.app. If the application displays no videos, it may be due to API rate limits or changes to the API structure.
