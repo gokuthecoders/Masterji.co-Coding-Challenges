@@ -84,10 +84,6 @@ The application has several key components:
 
 [View Live Demo](https://masterji-co-coding-challenges.vercel.app/)
 
-## 📚 Repository
-
-[GitHub Repository](https://github.com/your-username/mood-tracker)
-
 ---
 
 <div align="center">
